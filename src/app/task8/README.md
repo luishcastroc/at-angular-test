@@ -21,4 +21,8 @@ To implement routing for this task, follow these steps:
 
 **When finished**:
 
+You may or may not proceed to the **Optional** [Task 9](../task9/README.md)
+
+Otherwise
+
 Congratulations! You have completed all the tasks. Review your code and commit your changes.

@@ -10,7 +10,6 @@ Firstly, install the necessary dependencies.
 npm install
 ```
 
-
 You can start the application with `npm start` and then navigate to `http://localhost:4200/` in your browser. The application is set up with routing, and you will be building out the functionality for several routes as part of the exercise.
 
 ## Instructions
@@ -21,7 +20,7 @@ Each task contains a User Story that describes the feature to be implemented, al
 
 - The quality of your code. Is it clean, organized, and understandable?
 - The correctness of your solution. Does it fulfill the requirements set out in the User Story?
-- Your use of Angular's features and best practices. 
+- Your use of Angular's features and best practices.
 
 ## Tasks
 
@@ -33,6 +32,7 @@ Each task contains a User Story that describes the feature to be implemented, al
 - [Task 6: Unit Testing](./src/app/task6/README.md)
 - [Task 7: Advanced TypeScript Features](./src/app/task7/README.md)
 - [Task 8: User Experience Enhancement](./src/app/task8/README.md)
+- [Task 9 (Optional): Reusable Component](./src/app/task9/README.md)
 
 ## Navigation Menu
 
@@ -49,4 +49,3 @@ To implement routing for each task, follow these steps:
 After completing each task, please commit your changes with a message describing what you've done. Once you've finished all the tasks, make a final commit.
 
 Good luck and have fun!
-
